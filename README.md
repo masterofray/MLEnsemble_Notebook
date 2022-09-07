@@ -1,5 +1,5 @@
 # Konstruksi Perangkat Pembelajaran *Modern Prediction and Machine Learning* di Prodi Statistika Universitas Cenderawasih Tahun 2022
-<br>
+
 ## Gagasan Kreatif Penyelesaian Core Issue
 Dalam tahapan ini, saya memberikan beberapa rekomendasi gagasan kreatif guna menyelesaikan core issue yang terjadi di Program Studi Statistika Universitas Cenderawasih yaitu “Belum adanya mata kuliah yang menyangkut Artificial Intelligence (AI)”, dengan gagasan pemecahan isu : “Konstruksi Perangkat Pembelajaran Mata Kuliah Modern Prediction and Machine Learning untuk Mahasiswa Prodi Statistik Universitas Cenderawasih”, dengan tahapan kegiatan sebagai berikut.
 
