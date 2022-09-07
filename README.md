@@ -1,18 +1,36 @@
-# Advanced-Algorithms--Ensemble-Methods
+# Konstruksi Perangkat Pembelajaran *Modern Prediction and Machine Learning* di Prodi Statistika Universitas Cenderawasih Tahun 2022
+<br>
+## Gagasan Kreatif Penyelesaian Core Issue
+Dalam tahapan ini, saya memberikan beberapa rekomendasi gagasan kreatif guna menyelesaikan core issue yang terjadi di Program Studi Statistika Universitas Cenderawasih yaitu “Belum adanya mata kuliah yang menyangkut Artificial Intelligence (AI)”, dengan gagasan pemecahan isu : “Konstruksi Perangkat Pembelajaran Mata Kuliah Modern Prediction and Machine Learning untuk Mahasiswa Prodi Statistik Universitas Cenderawasih”, dengan tahapan kegiatan sebagai berikut.
 
-## What are Ensemble Methods??
-Ensemble learning is a machine learning paradigm where multiple models (often called “weak learners”) are trained to solve the same problem and combined to get better results. The main hypothesis is that when weak models are correctly combined, we can obtain more accurate and/or robust models. 
+1.	Konstruksi silabus MK Modern Prediction and Machine learning.
+  a.	Konsultasi dengan mentor.
+  b.	Menelusuri referensi pendukung.
+  c.	Membuat Silabus.
+  d.	Review konstruksi silabus.
+2.	Pembuatan RPS MK. Modern Prediction and Machine learning.
+  a.	Konsultasi dengan mentor.
+  b.	Menelusuri referensi pendukung.
+  c.	Membuat RPS MK. Modern Prediction and Machine learning.
+  d.	Review konstruksi RPS.
+3.	Pembuatan Bahan Ajar MK. Modern Prediction and Machine learning.
+  a.	Konsultasi dengan mentor.
+  b.	Menelusuri referensi pendukung.
+  c.	Membuat bahan ajar berbasis digital untuk membantu perkuliahan mahasiswa di MK. Modern Prediction and Machine learning.
+  d.  Mencoba membuat proto tipe *source code* untuk digunakan oleh mahasiswa
 
-Two families of ensemble methods are usually distinguished:
+## Algoritma - Machine Learning Lanjutan - Ensemble Methods
 
-1• In averaging methods, the driving principle is to build several estimators independently and then to average their predictions. On average, the combined estimator is usually better than any of the single base estimator because its variance is reduced. Examples: Bagging methods-Random Forest
+### Apa itu Metode Ensemble??
+Ensemble learning adalah paradigma pembelajaran mesin di mana beberapa model (sering disebut "peserta didik yang lemah") dilatih untuk memecahkan masalah yang sama dan digabungkan untuk mendapatkan hasil yang lebih baik. Hipotesis utamanya adalah ketika model yang lemah digabungkan dengan benar, kita dapat memperoleh model yang lebih akurat dan/atau kuat.
 
+Dua keluarga metode ensemble biasanya dibedakan:
 
-2• By contrast, in boosting methods, base estimators are built sequentially and one tries to reduce the bias of the combined estimator. The motivation is to combine several weak models to produce a powerful ensemble. Examples: Boosting methods-XGBoost.
+1• Dalam metode rata-rata, prinsip penggeraknya adalah membangun beberapa estimator secara independen dan kemudian merata-ratakan prediksinya. Rata-rata, estimator gabungan biasanya lebih baik daripada estimator basis tunggal karena variansnya berkurang. Contoh: Metode bagging-Random Forest
 
+2• Sebaliknya, dalam metode boosting, estimator dasar dibangun secara berurutan dan salah satu mencoba untuk mengurangi bias dari estimator gabungan. Motivasinya adalah untuk menggabungkan beberapa model yang lemah untuk menghasilkan ansambel yang kuat. Contoh: Metode peningkatan-XGBoost.
 
-
-Here we are discussing following advanced algorithms: 
+Di sini kita membahas algoritma lanjutan berikut: 
 1. Bagging
 2. AdaBoost
 3. GBM- Gradient Boosting Machines
